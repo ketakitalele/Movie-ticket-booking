@@ -1,0 +1,7 @@
+Project Topic : Movie Ticket Booking
+Programming  Language:Java
+Programming Files:Main_Movie.java,Customer_Details.java,Admin_Details.java 
+Database : MYSQL version 8.0.15
+Connection :JDBC
+Tables Used : movie_master(id,theater,movie,city,tickets,time),
+	      user_details(user_id,user_name,movie,theater,no_of_tickets,time_slot)
